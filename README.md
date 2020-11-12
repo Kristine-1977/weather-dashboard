@@ -3,7 +3,7 @@
 The assignment is to create a weather application that allows the user to find the current weather in any city they want. The application will show a 5 day forecast of the searched city.
 
 Links:
-<img src="./Assets/Images/Weather Dashboard Screenshot.png" alt="Weather Dashboard Screenshot"
+<img src="./Assets/Images/Weather Dashboard Screenshot.png" alt="Weather Dashboard Screenshot">
 Github link: (https://https://github.com/Kristine-1977/weather-dashboard)
 Deployed Link:(http://127.0.0.1:5500/index.html)
 
