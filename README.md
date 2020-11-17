@@ -20,5 +20,5 @@ Local Storage
 Required Criteria:
 
 The application is to show the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index.
-A saved history of the cities searched present. 
+A saved history of the cities searched present.
 A 5 day forecast displaying the date, an icon representation of weather conditions, the temperature, and the humidity and more.
