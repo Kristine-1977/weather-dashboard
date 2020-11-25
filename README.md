@@ -5,7 +5,7 @@ The assignment is to create a weather application that allows the user to find t
 Links:
 <img src="./Assets/Images/Weather Dashboard Screenshot.png" alt="Weather Dashboard Screenshot">
 Github link: (https://https://github.com/Kristine-1977/weather-dashboard)
-Deployed Link:(http://127.0.0.1:5500/index.html)
+Deployed Link:(https://kristine-1977.github.io/weather-dashboard/)
 
 Technologies used:
 
